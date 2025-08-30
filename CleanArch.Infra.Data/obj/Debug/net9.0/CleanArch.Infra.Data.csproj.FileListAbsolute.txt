@@ -1,0 +1,15 @@
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\bin\Debug\net9.0\CleanArch.Infra.Data.deps.json
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\bin\Debug\net9.0\CleanArch.Infra.Data.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\bin\Debug\net9.0\CleanArch.Infra.Data.pdb
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\bin\Debug\net9.0\CleanArch.Domain.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\bin\Debug\net9.0\CleanArch.Domain.pdb
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.csproj.AssemblyReference.cache
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.AssemblyInfo.cs
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArc.92526541.Up2Date
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\refint\CleanArch.Infra.Data.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.pdb
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\ref\CleanArch.Infra.Data.dll
