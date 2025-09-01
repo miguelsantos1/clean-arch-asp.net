@@ -17,3 +17,6 @@ C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Ioc\obj\Debug\net9.0\Clean
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Ioc\obj\Debug\net9.0\refint\CleanArch.Infra.Ioc.dll
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Ioc\obj\Debug\net9.0\CleanArch.Infra.Ioc.pdb
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Ioc\obj\Debug\net9.0\ref\CleanArch.Infra.Ioc.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Ioc\obj\Debug\net9.0\CleanArch.Infra.Ioc.sourcelink.json
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Ioc\bin\Debug\net9.0\CleanArch.Infra.Ioc.runtimeconfig.json
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Ioc\obj\Debug\net9.0\CleanArch.Infra.Ioc.genruntimeconfig.cache
