@@ -8,6 +8,7 @@ namespace CleanArch.Domain.Entities
 {
     public abstract class Entitiy
     {
+        // generic base entity
         public int Id { get; protected set; }
     }
 }

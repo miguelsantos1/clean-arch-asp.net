@@ -13,3 +13,6 @@ C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\Clea
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\refint\CleanArch.Infra.Data.dll
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.pdb
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\ref\CleanArch.Infra.Data.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\bin\Debug\net9.0\CleanArch.Infra.Data.runtimeconfig.json
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.sourcelink.json
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Infra.Data\obj\Debug\net9.0\CleanArch.Infra.Data.genruntimeconfig.cache

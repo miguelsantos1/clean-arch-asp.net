@@ -9,3 +9,4 @@ C:\udemy-dotnet\CleanArch.Application\CleanArch.Domain\obj\Debug\net9.0\CleanArc
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Domain\obj\Debug\net9.0\refint\CleanArch.Domain.dll
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.pdb
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Domain\obj\Debug\net9.0\ref\CleanArch.Domain.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.sourcelink.json

@@ -13,3 +13,4 @@ C:\udemy-dotnet\CleanArch.Application\CleanArch.Application\obj\Debug\net9.0\Cle
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Application\obj\Debug\net9.0\refint\CleanArch.Application.dll
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Application\obj\Debug\net9.0\CleanArch.Application.pdb
 C:\udemy-dotnet\CleanArch.Application\CleanArch.Application\obj\Debug\net9.0\ref\CleanArch.Application.dll
+C:\udemy-dotnet\CleanArch.Application\CleanArch.Application\obj\Debug\net9.0\CleanArch.Application.sourcelink.json
